@@ -1,0 +1,9 @@
+section{
+    padding: 10px;  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    color: #425a65;
+
+}

@@ -1,0 +1,18 @@
+h1 {
+        display: flex;
+        justify-content: center;
+        font-size: medium;
+}
+
+section{  
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+        background-color: #e6ece1;
+        color: #425a65;
+        height: 100vh;
+
+}
+
